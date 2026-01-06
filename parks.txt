@@ -1,4 +1,7 @@
+[USA]
 - Yellowstone
 - Yosemite
+
+[CANADA]
 - Banff
 - Jasper
